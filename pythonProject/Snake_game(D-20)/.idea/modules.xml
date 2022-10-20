@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../D-28/.idea/D-28.iml" filepath="$PROJECT_DIR$/../D-28/.idea/D-28.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Day_19_SketchGame/.idea/Day_19_SketchGame.iml" filepath="$PROJECT_DIR$/../Day_19_SketchGame/.idea/Day_19_SketchGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Snake_game(D-20).iml" filepath="$PROJECT_DIR$/.idea/Snake_game(D-20).iml" />
       <module fileurl="file://$PROJECT_DIR$/../ping_pong(D -22)/.idea/ping_pong(D -22).iml" filepath="$PROJECT_DIR$/../ping_pong(D -22)/.idea/ping_pong(D -22).iml" />
